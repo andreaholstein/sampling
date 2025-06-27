@@ -69,7 +69,39 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type
+  - Observational - "sample survey with cross-sectional design."
+2. Sample size
+  - 50,000 units.
+3. Target population
+  - All individuals, aged 15+, living in the Canadian provinces, and excludes folks institutionalized for 6 months or longer.
+4. Sampling frame:
+  - Individuals reachable by cellphone or landline numbers.
+5. Survey mode(s)
+  - Interviews with a single member of a household, aged 15+, reachable by telephone. Further subdivided based on volunteering status, with folks who identify as volunteers doing long interviews, and others do short ones.
+6. Timeline
+  - 2018-09-04 to 2018-12-28
+7. Response rate
+  - 41.9%.
+8. Weights
+  - Estimation weights: "WGHT_PER: This is the basic weighting factor for analysis at the person level, i.e. to calculate estimates of the number of persons (non-institutionalized and aged 15 or over) having one or several given characteristics."
+  - Bootstrap weights: "In addition to the estimation weights, bootstrap weights have been created for the purpose of design-based variance estimation."
+9. Data processing
+  - Data collected directly from survey respondents via either electtronic questionnaires or through CATI. Participation was voluntary and no proxies were allowed.
+  - Data was linked to tax records of respondents and their household.
+
+10. Cleaning, imputation, etc
+  - Error edtection strategies were employed to detect and edit out-of-range values in real-time to try and resolve those with respondents - anything that couldn't be resolved then was forwarded to the head office for resolution (more checks and edits).
+  - Imputations largely done using donor records (evaluating records against respondent info to find a close "match"), and using their info to fill in missing respondent info.
+  - Where donor imputation wasn't possible, mean imputation of the donor pool was used.
+11. Sources of error
+  - Imperfect coverage: i.e. unreachable households/telephone #s.
+  - Non-response: 2 stages of surveying - at the household level and at the individual level, which presented two opportunities for non-response.
+  - Also: response errors, processing errors.
+12. Limitations, known biases, etc
+  - Reduced nonresponse bias by adjusting the survey weights to account for it. Where information could be extracted from admin sources to make up for missing basic info, that strategy was used.
+13. Link to documentation and any additional sources used
+  - https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 ```
 
 ## Rubric
