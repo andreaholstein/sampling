@@ -9,15 +9,8 @@ The goal of this assignment is to practice developing and evaluating sampling ma
 Select one of the scenarios below and design a survey to meet the need(s) outlined in the prompt.
 
 1. In two to three sentences, describe the purpose of your survey
-   - I am designing a survey to better understand which issues are top-of-mind for voters in this federal election cycle. The goal is to identify ways to better position our party's leader as the ideal candidate to address voter concerns, and ensure that campaign promises more closely align with what voters seek from their next political leader.
 2. Describe your target population, sampling frame, sampling units, and overall sampling strategy.
-   - The target population is all eligible voters in Canada. The frame is 1000 registered voters in each province and territory selected from the target population. The sampling units are individuals, 18 and older, who are registered to vote, and can be reached by Canada Post/mail delivery service in their home jurisdiction. The goal of the sampling strategy is to collect a representative sample of registered voters across each province and territory in order to glean some region-specific insight into the issues voters care most about, in order to extrapolate from that the ideal political candidate strategy to appeal to those diverse voters.
 3. Write a 5-10 question survey to address your chosen scenario below.
-   - Do you intend to vote in the upcoming federal election: why or why not? [Y/N, space to elaborate on their reasoning]
-   - In the last election in which you cast a vote, which party did you vote for and why? [List of parties to choose from, space to elaborate on their reasoning]
-   - In the upcoming election, which party do you intend to vote for? [List of parties]
-   - In the following list of 5 issues, rank these issues based on their importance to you as a voter, with 1 meaning 'of no importance', and 5 meaning 'of greatest importance'. [List of 5 established popular issues]
-   - Is there a political issue that matters to you and which you have yet to see a political party/candidate address in their campaigning so far? Please elaborate on what this issue is. [Space to elaborate]
 
 ##### Scenarios
 
@@ -47,33 +40,28 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design:
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `2`
 
 Describe the purpose of your survey:
 
 ```
-write your answer here...
+ I am designing a survey to better understand which issues are top-of-mind for voters in this federal election cycle. The goal is to identify ways to better position our party's leader as the ideal candidate to address voter concerns, and ensure that campaign promises more closely align with what voters seek from their next political leader.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 
 ```
-write your answer here...
+The target population is all eligible voters in Canada. The frame is 1000 registered voters in each province and territory selected from the target population. The sampling units are individuals, 18 and older, who are registered to vote, and can be reached by Canada Post/mail delivery service in their home jurisdiction. The goal of the sampling strategy is to collect a representative sample of registered voters across each province and territory in order to glean some region-specific insight into the issues voters care most about, in order to extrapolate from that the ideal political candidate strategy to appeal to those diverse voters.
 ```
 
 Your 5-10 question survey:
 
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. Do you intend to vote in the upcoming federal election: why or why not? [Y/N, space to elaborate on their reasoning]
+2. In the last election in which you cast a vote, which party did you vote for and why? [List of parties to choose from, space to elaborate on their reasoning]
+3. In the upcoming election, which party do you intend to vote for? [List of parties]
+4. In the following list of 5 issues, rank these issues based on their importance to you as a voter, with 1 meaning 'of no importance', and 5 meaning 'of greatest importance'. [List of 5 established popular issues]
+5. Is there a political issue that matters to you and which you have yet to see a political party/candidate address in their campaigning so far? Please elaborate on what this issue is. [Space to elaborate]
 ```
 
 ## Part B - Survey Evaluation:
